@@ -11,7 +11,7 @@ netsh advfirewall firewall set rule group="Remote Scheduled Tasks Management" ne
 
 :moonlight
 echo Installing Moonlight-qt
-MoonlightSetup-3.0.0.exe /quiet
+MoonlightSetup-3.1.3.exe /quiet
 
 echo Installation complete
 pause
